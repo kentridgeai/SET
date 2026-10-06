@@ -5,4 +5,4 @@ Data files are made available by third-parties attributed in the main paper.
 
 ### Dependencies
 
-* **PyGAD** ([v3.4.0](https://pypi.org))
+* **PyGAD** (v3.4.0)
